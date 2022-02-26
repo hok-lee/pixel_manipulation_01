@@ -1,4 +1,4 @@
 # pixel_manipulation_01
 
-Draw pixels on a canvas
-Manipulate pixels on an image
+1. Draw pixels on a canvas
+2. Manipulate pixels on an image
